@@ -495,7 +495,7 @@ a:hover{
 .clients-form{
     max-width: 1200px;
     width: 100%;
-    background-color: #ff7800;
+    /* background-color: #ff7800; */
     height: 300px;
     display: table;
 }
@@ -523,4 +523,26 @@ a:hover{
     width: 100%;
     margin-left: 18%;
     margin-top: -13%;
+}
+
+.clients-form:before{
+    position:absolute;
+    top:0;
+    left:0;
+    width:70px;
+    height: 70px;
+    border-top:3px solid #ff7800;
+    border-left:3px solid #ff7800;
+    content:"";
+}
+
+.clients-form:after{
+    position:absolute;
+    bottom:0;
+    right: 0;
+    width:70px;
+    height: 70px;
+    border-bottom:3px solid #ff7800;
+    border-right:3px solid #ff7800;
+    content:"";
 }
