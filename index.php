@@ -246,19 +246,26 @@
                 <div class="col-xl-12">
                     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <!-- <img class="d-block w-100" src="img/adaptiv.jpg" alt="First slide"> -->
-                                <div class="clients-form">
-                                    <div class="clients-avatar">
 
+                            
+
+                                    <div class="carousel-item active">
+                                    <!-- <img class="d-block w-100" src="img/adaptiv.jpg" alt="First slide"> -->
+                                        <div class="clients-form">
+                                            <div class="clients-avatar">
+
+                                            </div>
+                                            <div class="clients-text">
+                                                    Прежде всего хочу сказать что проект был запущен вовремя. 
+                                                    Были соблюдены все сроки, что приятно удивило, учитывая низкую стоимость.
+                                                    С ребятами хорошо работать, будем продолжать сотрудничество в плане поддержки сайта.
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div class="clients-text">
-                                            Прежде всего хочу сказать что проект был запущен вовремя. 
-                                            Были соблюдены все сроки, что приятно удивило, учитывая низкую стоимость.
-                                            С ребятами хорошо работать, будем продолжать сотрудничество в плане поддержки сайта.
-                                    </div>
-                                </div>
-                            </div>
+                                <!-- </div> -->
+                            <!-- </div> -->
+                            <!-- </div> -->
+
                             <div class="carousel-item">
                             <!-- <img class="d-block w-100" src="img/adaptiv.jpg" alt="Second slide"> -->
                                 <div class="clients-form">
