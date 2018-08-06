@@ -247,14 +247,57 @@
                     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                            <img class="d-block w-100" src="img/adaptiv.jpg" alt="First slide">
+                                <!-- <img class="d-block w-100" src="img/adaptiv.jpg" alt="First slide"> -->
+                                <div class="clients-form">
+                                    <div class="clients-avatar">
+
+                                    </div>
+                                    <div class="clients-text">
+                                            Прежде всего хочу сказать что проект был запущен вовремя. 
+                                            Были соблюдены все сроки, что приятно удивило, учитывая низкую стоимость.
+                                            С ребятами хорошо работать, будем продолжать сотрудничество в плане поддержки сайта.
+                                    </div>
+                                </div>
                             </div>
                             <div class="carousel-item">
-                            <img class="d-block w-100" src="img/adaptiv.jpg" alt="Second slide">
+                            <!-- <img class="d-block w-100" src="img/adaptiv.jpg" alt="Second slide"> -->
+                                <div class="clients-form">
+                                    <div class="clients-avatar">
+
+                                    </div>
+                                    <div class="clients-text">
+                                        Работой доволен! По началу не совсем понятно было что нужно, но после консультации, она кстати бесплатная,
+                                        разобрались и сделал выбор на лендинге. Сайт сделали так как я хотел, а в некоторых местах посоветовали как будет лучше.
+                                        Очень рекомендую.
+                                    </div>
+                                </div>
                             </div>
                             <div class="carousel-item">
-                            <img class="d-block w-100" src="img/adaptiv.jpg" alt="Third slide">
+                            <!-- <img class="d-block w-100" src="img/adaptiv.jpg" alt="Third slide"> -->
+                            <div class="clients-form">
+                                    <div class="clients-avatar">
+
+                                    </div>
+                                    <div class="clients-text">
+                                        Самый низкий ценник в рунете! Нигде не видел такой цены и за такое качество, были некоторы моменты с недопониманием, но
+                                        это быстро решилось. Запускал сразу несколько лендингов для рекламы интернет-магазина, конверсия заметно повысилась, однозначно
+                                        лучший способ рекламы, чем реклама "по старинке".
+                                    </div>
+                                </div>
                             </div>
+                            <div class="carousel-item">
+                                <!-- <img class="d-block w-100" src="img/adaptiv.jpg" alt="Third slide"> -->
+                                <div class="clients-form">
+                                        <div class="clients-avatar">
+    
+                                        </div>
+                                        <div class="clients-text">
+                                            Стояла задача интегрировать наш рабочий портал с CRM-системой. Так как своего отдела разработки нет, то решили взять кого-нибудь удаленно.
+                                            Результат не заставил себя долго ждать, давно стоило обратиться к профессионалам. Сделали все по Тех.заданию + прикрутили пару интересных фич.
+                                            Остался доволен.
+                                        </div>
+                                    </div>
+                                </div>
                         </div>
                         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
